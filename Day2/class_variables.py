@@ -49,6 +49,6 @@ print(s1.branch)
 print(s2.branch)
 
 print(Student.branch)
-# print(s1.branch)
-# print(s1.roll)
+print(s1.branch)
+print(s1.roll)
 

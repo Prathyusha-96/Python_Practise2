@@ -6,6 +6,8 @@ def outer_func():
     return inner_func()
 outer_func()
 
+
+
 #clousers
 def outer_func():
     message = 'Hi'

@@ -16,7 +16,8 @@ for num in my_nums:
     print(num)
 
 #using list comprehensions
-# my_nums = [x*x for x in [1,2,3,4,5]]
+my_nums = [x*x for x in [1,2,3,4,5]]
+
 my_nums = (x*x for x in [1,2,3,4,5]) #it prints generator object
 print(list(my_nums))
 

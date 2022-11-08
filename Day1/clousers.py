@@ -7,6 +7,9 @@ def outer_func():
     return inner_func()
 outer_func()
 
+
+
+
 #assign variable to function
 def outer_func():
     message = 'hi'

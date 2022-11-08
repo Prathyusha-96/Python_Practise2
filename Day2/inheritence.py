@@ -66,7 +66,7 @@ print(issubclass(Manager, Manager))
 #METHOD resolution order
 # print(help(Developer))
 
-# print(dev_1.pay)
-# dev_1.apply_raise()
-# print(dev_1.pay)
+print(dev_1.pay)
+dev_1.apply_raise()
+print(dev_1.pay)
 

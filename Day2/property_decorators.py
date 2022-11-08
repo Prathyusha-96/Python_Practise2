@@ -23,9 +23,7 @@ class Employee:
         print('Delete name!')
         self.first = None
         self.last  =None
-    
-
-
+        
 emp_1 = Employee('john', 'smith')
 emp_2 = Employee('cris', 'deo')
 

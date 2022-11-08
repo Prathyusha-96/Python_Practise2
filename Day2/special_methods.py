@@ -42,9 +42,9 @@ print(emp_1.__str__())
 print(len(emp_1))
 
 #some dunder methods
-# print(1+2)
-# print(int.__add__(1,2))
-# print(str.__add__('a','b'))
+print(1+2)
+print(int.__add__(1,2))
+print(str.__add__('a','b'))
 
 #check len method
 
