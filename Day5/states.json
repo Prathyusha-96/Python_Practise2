@@ -1,0 +1,40 @@
+{
+    "states" : [
+        {
+            "name": "Albama",
+            "abbrivation": "Al",
+            "area_codes": ["205", "203"]
+        },
+        {
+            "name": "Alaska",
+            "abbrivation": "As",
+            "area_codes": ["205", "204", "502"]
+        },
+        {
+            "name": "Florida",
+            "abbrivation": "Fl",
+            "area_codes": ["210", "250", "123", "563"]
+        },
+        {
+            "name": "Texas",
+            "abbrivation": "Tx",
+            "area_codes": ["452", "457", "125", "208"]
+        },
+        {
+            "name": "Newyork",
+            "abbrivation": "Ny",
+            "area_codes": ["205", "203", "458", "952", "456"]
+        },
+        {
+            "name": "Newjersy",
+            "abbrivation": "Nj",
+            "area_codes": ["215", "284", "752", "258"]
+        },
+        {
+            "name": "Austin",
+            "abbrivation": "Au",
+            "area_codes": ["225", "365", "965"]
+        }
+        
+]
+}

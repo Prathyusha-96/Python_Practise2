@@ -1,0 +1,32 @@
+{
+  "states": [
+    {
+      "name": "Albama",
+      "abbrivation": "Al"
+    },
+    {
+      "name": "Alaska",
+      "abbrivation": "As"
+    },
+    {
+      "name": "Florida",
+      "abbrivation": "Fl"
+    },
+    {
+      "name": "Texas",
+      "abbrivation": "Tx"
+    },
+    {
+      "name": "Newyork",
+      "abbrivation": "Ny"
+    },
+    {
+      "name": "Newjersy",
+      "abbrivation": "Nj"
+    },
+    {
+      "name": "Austin",
+      "abbrivation": "Au"
+    }
+  ]
+}
