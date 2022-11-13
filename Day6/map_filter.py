@@ -20,6 +20,17 @@ def func(x):
     return x**x
 print(list(map(func, li2)))
 
+a = [1,2,3,4]
+def add5(x):
+    return x+5
+print(list(map(add5, a)))
+
+#lambda functions with map
+tup = (1,2,3,4,5,6)
+result = tuple(map(lambda x: x *2, tup))
+print(result)
+
+
 #filter
 def add(x):
     return x+7
@@ -29,3 +40,15 @@ def isodd(x):
 
 a = [1,2,3,5,4,6]
 print(list(filter(isodd, a)))
+
+def func(x):
+    if x>=3:
+        return x
+y = filter(func, (1,2,3,4))
+print(list(y))
+
+#lambda filter
+
+tup = (1,2,3,4,5,6)
+result = (filter(lambda x: (x>=3), tup))
+print(list(result))

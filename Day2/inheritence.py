@@ -11,7 +11,7 @@ class Employee:
         return ('{} {}'.format(self.first, self.last))
 
     def apply_raise(self):
-        self.pay = int(self.pay * self.raise_amount)
+            self.pay = int(self.pay * self.raise_amount)
 
 #creating subclass
 class Developer(Employee):
@@ -39,9 +39,6 @@ class Manager(Employee):
     def print_emps(self):
         for emp in self.employees:
             print('---->', emp.fullname())
-
-
-
 
 # dev_1 = Employee('john', 'deo', 50000)
 # dev_2 = Employee('test', 'cris', 60000)
